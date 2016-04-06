@@ -1,0 +1,146 @@
+<!-- bookSchema.xml  
+	 Description: the xml file is a schema xsd code according to the "asin.xml" -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+  <xsd:simpleType name="URLImageType">
+    <xsd:restriction base="xsd:anyURI">
+	  <xsd:pattern value="http://.*\. jpg" />
+	</xsd:restriction>
+  </xsd:simpleType>
+		
+  <xsd:element name="asin">
+	<xsd:complexType >
+	  <xsd:sequence>
+		<xsd:element name="Author" type="xsd:string" minOccurs="1" maxOccurs="unbounded" />
+		  <xsd:element name="Binding" type="xsd:string" />
+		  <xsd:element name="DetailPageURL">
+			<xsd:simpleType>
+			  <xsd:restriction base="xsd:anyURI">
+				<xsd:pattern value="http://www.amazon.com/exec/obidos/redirect?.*" />
+			  </xsd:restriction>
+			</xsd:simpleType>
+		  </xsd:element>
+		  <xsd:element name="Edition" type="xsd:string" />
+		  <xsd:element name="EditorialReview_Content" type="xsd:string" />
+		  <xsd:element name="EditorialReview_Source" type="xsd:string" />
+		  <xsd:element name="LargeImage_Height">
+		    <xsd:simpleType>
+			  <xsd:restriction base="xsd:integer">
+				<xsd:minExclusive value="0" />
+				<xsd:maxInclusive value="768" />
+			  </xsd:restriction>
+			</xsd:simpleType>
+		  </xsd:element>
+		  <xsd:element name="LargeImage_URL" type="URLImageType" />
+		  <xsd:element name="LargeImage_Width" type="xsd:positiveInteger" />
+		  <xsd:element name="ListPrice_Amount" type="xsd:positiveInteger" />
+		  <xsd:element name="ListPrice_CurrencyCode">
+		    <xsd:simpleType>
+			  <xsd:restriction base="xsd:string">
+			    <xsd:enumeration value="USD" />
+				<xsd:enumeration value="CAD" />
+			  </xsd:restriction>
+			</xsd:simpleType>
+		  </xsd:element>
+		  <xsd:element name="ListPrice_FormattedPrice">
+		    <xsd:simpleType>
+			  <xsd:restriction base="xsd:string">
+				<xsd:pattern value="\$(([0-9])|([1-9][0-9])|(1[0-9][0-9])|(2[0-4][0-9]))\.[0-9][0-9]|\$250.00" />
+			  </xsd:restriction>
+			</xsd:simpleType>
+		  </xsd:element>
+		  <xsd:element name="MediumImage_Height" type="xsd:positiveInteger" />
+		  <xsd:element name="MediumImage_URL" type="xsd:string" />
+		  <xsd:element name="MediumImage_Width" type="xsd:positiveInteger" />
+		  <xsd:element name="NumberOfPages" type="xsd:positiveInteger" />
+		  <xsd:element name="PackageDimensions_Height" type="xsd:positiveInteger" />
+		  <xsd:element name="PackageDimensions_Length" type="xsd:positiveInteger" />
+		  <xsd:element name="PackageDimensions_Size_Units" type="xsd:string" />
+		  <xsd:element name="PackageDimensions_Weight" type="xsd:positiveInteger" />
+		  <xsd:element name="PackageDimensions_Weight_Units" type="xsd:string" />
+		  <xsd:element name="PackageDimensions_Width" type="xsd:positiveInteger" />
+		  <xsd:element name="ProductGroup" type="xsd:string" />
+		  <xsd:element name="PublicationDate" type="xsd:date" />
+		  <xsd:element name="Publisher">
+		    <xsd:simpleType>
+			  <xsd:restriction base="xsd:string">
+				<xsd:enumeration value="W.A.B." />
+				<xsd:enumeration value="Wiley" />
+				<xsd:enumeration value="IEEE Press" />
+				<xsd:enumeration value="ACM Press" />
+			  </xsd:restriction>
+			</xsd:simpleType>
+		  </xsd:element>
+		  <xsd:element name="SalesRank" type="xsd:positiveInteger" />
+		  <xsd:element name="SmallImage_Height" type="xsd:positiveInteger" />
+		  <xsd:element name="SmallImage_URL" type="URLImageType" />
+		  <xsd:element name="SmallImage_Width" type="xsd:positiveInteger" />
+		  <xsd:element name="Title" type="xsd:string" />
+		  <xsd:element name="store" type="xsd:string" />
+		  <xsd:element name="Topics">
+			<xsd:complexType>
+			  <xsd:sequence>
+				<xsd:element name="item" type="xsd:string" />
+			  </xsd:sequence>
+			</xsd:complexType>
+		  </xsd:element>
+		  <xsd:element name="giver_ids">
+		    <xsd:complexType>
+			  <xsd:sequence>
+				<xsd:element name="item" type="xsd:string" />
+			  </xsd:sequence>
+			</xsd:complexType>
+		  </xsd:element>
+		  <xsd:element name="moocher_ids">
+			<xsd:complexType>
+			  <xsd:sequence>
+				<xsd:element name="item" type="xsd:string" />
+			  </xsd:sequence>
+			</xsd:complexType>
+		  </xsd:element>
+		  <xsd:element name="userids">
+			<xsd:complexType>
+			  <xsd:sequence>
+				<xsd:element name="item" type="xsd:string" />
+			  </xsd:sequence>
+			</xsd:complexType>
+		  </xsd:element>
+		  <xsd:element name="transactions">
+		    <xsd:complexType>
+			  <xsd:sequence>
+				<xsd:element name="item" type="xsd:string" />
+			  </xsd:sequence>
+			</xsd:complexType>
+		  </xsd:element>
+		  <xsd:element name="wishlists_on">
+			<xsd:complexType>
+			  <xsd:sequence>
+				<xsd:element name="item">
+				  <xsd:complexType>
+					<xsd:sequence>
+					  <xsd:element name="id" type="xsd:string" />
+					  <xsd:element name="now" type="xsd:positiveInteger" />
+					</xsd:sequence>
+				  </xsd:complexType>
+		  		</xsd:element>
+			  </xsd:sequence>
+			</xsd:complexType>
+		  </xsd:element>	
+		</xsd:sequence>
+		<xsd:attribute name="ISBN">
+		  <xsd:simpleType>
+			<xsd:restriction base="xsd:string">
+			  <xsd:pattern value="[0-9]{10} [0-9]{13}" />
+			</xsd:restriction>
+		  </xsd:simpleType>
+		</xsd:attribute>
+		<xsd:attribute name="code">
+		  <xsd:simpleType>
+			<xsd:restriction base="xsd:string">
+			  <xsd:pattern value="[a-zA-Z]{2}[0-9]{4}[a-zA-Z]{2}" />
+			</xsd:restriction>
+		  </xsd:simpleType>
+		</xsd:attribute>
+	  </xsd:complexType>
+	</xsd:element>
+  </xsd:schema> 	

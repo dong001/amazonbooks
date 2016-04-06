@@ -1,0 +1,626 @@
+<asins>
+	<asin ISBN="1234567890 1234567890123" code="aB1234Av">
+		<Author>Robert Lopshire</Author>
+		<Binding>Paperback</Binding> 
+		<DetailPageURL>http://www.amazon.com/exec/obidos/redirect?tag=bookmooch-
+			20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com
+			/gp/redirect.html%253fASIN=0001714600%2526tag=bookmooch-
+			20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/000171460
+			0%25253FSubscriptionId=1AQVTEDADRW2C3ZDPCG2</DetailPageURL>
+  		<Edition>Unabridged</Edition>
+		<EditorialReview_Content>Illus. in full color. The polka-dot leopard Spot from
+			Put Me in the Zoo returns. Spot changes from elephant to giraffe to mouse, 
+			trying to find a new identity, but discovers that every animal shape has its drawbacks.
+			This intelligent, cheerful sequel, with its simple rhyming text, lives up to the reputation of its
+			predecessor. Publishers Weekly </EditorialReview_Content> 
+		<EditorialReview_Source>Book Description</EditorialReview_Source> 
+		<LargeImage_Height>475</LargeImage_Height>
+		<LargeImage_URL>http://images.amazon.com/images/P/0001714600.01._SCLZZZZZZZ_. jpg</LargeImage_URL>
+		<LargeImage_Width>343</LargeImage_Width> <ListPrice_Amount>927</ListPrice_Amount>
+		<ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+		<ListPrice_FormattedPrice>$9.27</ListPrice_FormattedPrice> 
+		<MediumImage_Height>140</MediumImage_Height>
+		<MediumImage_URL>http://images.amazon.com/images/P/0001714600.01._SCMZZZZZZZ_ .jpg</MediumImage_URL>
+		<MediumImage_Width>101</MediumImage_Width> <NumberOfPages>640</NumberOfPages>
+		<PackageDimensions_Height>700</PackageDimensions_Height>
+		<PackageDimensions_Length>50</PackageDimensions_Length> 
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+		<PackageDimensions_Weight>20</PackageDimensions_Weight> 
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+		<PackageDimensions_Width>450</PackageDimensions_Width> 
+		<ProductGroup>Book</ProductGroup>
+		<PublicationDate>1986-07-10</PublicationDate> 
+		<Publisher>W.A.B.</Publisher> <SalesRank>3839934</SalesRank>
+		<SmallImage_Height>60</SmallImage_Height>
+		<SmallImage_URL>http://images.amazon.com/images/P/0001714600.01._SCTHUMBZZZ_. jpg</SmallImage_URL>
+		<SmallImage_Width>43</SmallImage_Width>
+		<Title>I Want to Be Somebody New! (I Can Read It All by Myself)</Title> <store>amazon.com</store>
+		<Topics>
+            <item>Essays</item>
+    	</Topics>
+    	<giver_ids>
+            <item>dewey</item>
+    	</giver_ids>
+   	 	<moocher_ids>
+            <item>nicomachus</item>
+    	</moocher_ids>
+    	<userids>
+            <item>delta.38</item>
+    	</userids>
+    	<transactions>
+            <item>nicomachus/2</item>
+    	</transactions>
+    	<wishlists_on>
+            <item>
+                    <id>dgrant</id>
+                    <now>1167614085</now>
+            </item>
+    	</wishlists_on>
+		<LocalLink>book.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="0470371749 9780470371749" code="aB1234Av">
+	   	<Author>Burd</Author>
+	   	<Binding>Paperback</Binding>
+		<DetailPageURL>http://www.amazon.com/Beginning-Programming-Java-For-Dummies/dp/0470371749%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0470371749</DetailPageURL>
+		 <Edition>3</Edition> 
+		 <EditorialReview_Content>&lt;b&gt;One of the most popular beginning programming books, now fully updated &lt;/b&gt;&lt;p&gt;Java is a popular language for beginning programmers, and earlier editions of this fun and friendly guide have helped thousands get started. Now fully revised to cover recent updates for Java 7.0, &lt;i&gt;Beginning Programming with Java For Dummies, 3rd Edition&lt;/i&gt; is certain to put more first-time programmers and Java beginners on the road to Java mastery.&lt;ul&gt;&lt;li&gt;Explores what goes into creating a program, putting the pieces together, dealing with standard programming challenges, debugging, and making the program work &lt;li&gt;Offers new options for tools and techniques used in Java development&lt;/li&gt;&lt;li&gt;Provides valuable information and examples for the would-be programmer with no Java experience&lt;/li&gt;&lt;li&gt;All examples are updated to reflect the latest changes in Java 7.0&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;i&gt;Beginning Programming with Java For Dummies, 3rd Edition&lt;/i&gt; offers an easy-to-understand introduction to programming through the popular, versatile Java 7.0 language.</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+	 
+		<LargeImage_Height>500</LargeImage_Height>
+		<LargeImage_URL>http://ecx.images-amazon.com/images/I/51SMnhNPpyL.jpg</LargeImage_URL>
+	    <LargeImage_Width>398</LargeImage_Width>
+		<ListPrice_Amount>2999</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$29.99</ListPrice_FormattedPrice>
+	    <MediumImage_Height>160</MediumImage_Height>
+		<MediumImage_URL>http://ecx.images-amazon.com/images/I/51SMnhNPpyL._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>127</MediumImage_Width>
+		<NumberOfPages>456</NumberOfPages>
+	    <PackageDimensions_Height>100</PackageDimensions_Height>
+	    <PackageDimensions_Length>910</PackageDimensions_Length>
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>145</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+		<PackageDimensions_Width>740</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2012-04-10</PublicationDate>
+	    <Publisher>For Dummies</Publisher>
+		<SalesRank>4437</SalesRank>
+		<SmallImage_Height>75</SmallImage_Height>
+		<SmallImage_URL>http://ecx.images-amazon.com/images/I/51SMnhNPpyL._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>60</SmallImage_Width>
+	    <Title>Beginning Programming with Java For Dummies</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+		<LocalLink>book1.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="0470617977 9780470617977" code="aB1234Av">
+		<Author>Stephen R. Davis</Author>
+		<Binding>Paperback</Binding>
+		<DetailPageURL>http://www.amazon.com/Beginning-Programming-C-For-Dummies/dp/0470617977%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0470617977</DetailPageURL>
+		<Edition>1</Edition>
+		<EditorialReview_Content>&lt;b&gt;An ideal starting point to get a strong grasp of the fundamentals of C++&lt;/b&gt;&lt;p&gt;C++ is an object-oriented programming language commonly adopted by would-be programmers. This book explores the basic development concepts and techniques of C++ and explains the "how" and "why" of C++ programming from the ground up.&lt;p&gt;You'll discover what goes into creating a program, as well as how to put the various pieces together, deal with standard programming challenges, handle debugging, and make it all work.&lt;ul&gt;&lt;li&gt;Details the basics of C++ programming and explores the "how" and "why" of this object-oriented language&lt;li&gt;Addresses the various components that go into creating a program with C++&lt;li&gt;Walks you through common challenges of C++ programming&lt;/ul&gt;&lt;p&gt;Assuming no prior experience, &lt;i&gt;Beginning Programming with C++ For Dummies&lt;/i&gt; is a fun and friendly guide to learning the C++ language.&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; CD-ROM/DVD and other supplementary materials are not included as part of eBook file.</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+	    <LargeImage_Height>500</LargeImage_Height>
+	    <LargeImage_URL>http://ecx.images-amazon.com/images/I/51AoY4DUwAL.jpg</LargeImage_URL>
+	    <LargeImage_Width>398</LargeImage_Width>
+	   	<ListPrice_Amount>2999</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$15.73</ListPrice_FormattedPrice>
+		<MediumImage_Height>160</MediumImage_Height>
+		<MediumImage_URL>http://ecx.images-amazon.com/images/I/51AoY4DUwAL._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>127</MediumImage_Width>
+	    <NumberOfPages>456</NumberOfPages>
+	    <PackageDimensions_Height>118</PackageDimensions_Height>
+	    <PackageDimensions_Length>913</PackageDimensions_Length>
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>154</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>724</PackageDimensions_Width>
+	    <ProductGroup>Book</ProductGroup>
+		<PublicationDate>2010-08-16</PublicationDate>
+		<Publisher>For Dummies</Publisher>
+		<SalesRank>74898</SalesRank>
+	    <SmallImage_Height>75</SmallImage_Height>
+	    <SmallImage_URL>http://ecx.images-amazon.com/images/I/51AoY4DUwAL._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>60</SmallImage_Width>
+		<Title>Beginning Programming with C++ For Dummies</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book2.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="1435457420 9781435457423" code="aB1234Av">
+	    <Author>Michael Dawson</Author>
+	    <Binding>Paperback</Binding>
+		<DetailPageURL>http://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1435457420</DetailPageURL>
+		<Edition>3</Edition>
+	    <EditorialReview_Content>BEGINNING C++ THROUGH GAME PROGRAMMING, THIRD EDITION approaches learning C++ from the unique and fun perspective of games. Written for the beginning game developer or programmer, the book assumes no previous programming experience and each new skill and concept is taught using simple language and step-by-step instructions. Readers will complete small projects in each chapter to reinforce what they've learned and a final project at the end combines all of the major topics covered in the book. Featuring twenty five percent new material, this third edition covers all the latest technology and advances.</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+	    <LargeImage_Height>500</LargeImage_Height>
+	    <LargeImage_URL>http://ecx.images-amazon.com/images/I/41vXp1PAhbL.jpg</LargeImage_URL>
+	    <LargeImage_Width>404</LargeImage_Width>
+	    <ListPrice_Amount>3499</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$34.99</ListPrice_FormattedPrice>
+		<MediumImage_Height>160</MediumImage_Height>
+	    <MediumImage_URL>http://ecx.images-amazon.com/images/I/41vXp1PAhbL._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>129</MediumImage_Width>
+		<NumberOfPages>432</NumberOfPages>
+	    <PackageDimensions_Height>110</PackageDimensions_Height>
+	    <PackageDimensions_Length>900</PackageDimensions_Length>
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>175</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>720</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2010-10-18</PublicationDate>
+	    <Publisher>Cengage Learning PTR</Publisher>
+		<SalesRank>19282</SalesRank>
+	    <SmallImage_Height>75</SmallImage_Height>
+	    <SmallImage_URL>http://ecx.images-amazon.com/images/I/41vXp1PAhbL._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>61</SmallImage_Width>
+		<Title>Beginning C++ Through Game Programming</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book3.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="1435458869 9781435458864" code="aB1234Av">
+	    <Author>Eric Lengyel</Author>
+	    <Binding>Hardcover</Binding>
+		<DetailPageURL>http://www.amazon.com/Mathematics-Programming-Computer-Graphics-Edition/dp/1435458869%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1435458869</DetailPageURL>
+		<Edition>3rd</Edition>
+	    <EditorialReview_Content>This updated third edition illustrates the mathematical concepts that a game developer needs to develop 3D computer graphics and game engines at the professional level. It starts at a fairly  basic level in areas such as vector geometry and linear algebra, and then progresses to more advanced topics in 3D programming such as illumination and visibility determination. Particular attention is given  to derivations of key results, ensuring that the reader is not forced to endure gaps in the theory. The book assumes a working knowledge of trigonometry and calculus, but also includes sections that review the important tools used from these disciplines, such as trigonometric identities, differential equations, and Taylor series.&lt;br&gt;&lt;br&gt;The third edition expands upon topics that include projections, shadows, physics, cloth simulation, and numerical methods. All of the illustrations have been updated, and the shader code has been updated to the latest high-level shading language specifications.</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source> 
+	    <LargeImage_Height>500</LargeImage_Height>
+	    <LargeImage_URL>http://ecx.images-amazon.com/images/I/51LbyfgZmPL.jpg</LargeImage_URL>
+	    <LargeImage_Width>390</LargeImage_Width>
+	    <ListPrice>_Amount>6999</ListPrice>_Amount>
+	    <ListPrice>_CurrencyCode>USD</ListPrice>_CurrencyCode>
+	    <ListPrice>_FormattedPrice>$69.99</ListPrice>_FormattedPrice> 
+	    <MediumImage_Height>160</MediumImage_Height>
+	    <MediumImage_URL>http://ecx.images-amazon.com/images/I/51LbyfgZmPL._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>125</MediumImage_Width>
+		<NumberOfPages>576</NumberOfPages>
+	    <PackageDimensions_Height>170</PackageDimensions_Height>
+	    <PackageDimensions_Length>930</PackageDimensions_Length>	
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>405</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>750</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2011-06-02</PublicationDate>
+	    <Publisher>Cengage Learning PTR</Publisher>
+		<SalesRank>51782</SalesRank>
+	    <SmallImage_Height>75</SmallImage_Height>
+	    <SmallImage_URL>http://ecx.images-amazon.com/images/I/51LbyfgZmPL._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>58</SmallImage_Width>
+		<Title>Mathematics for 3D Game Programming and Computer Graphics, Third Edition</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book4.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="0321902947 9780321902948" code="aB1234Av">
+	    <Author>Graham Sellers</Author>
+	    <Author>Richard S. Wright</Author>
+	    <Author>Nicholas Haemel</Author>
+	    <Binding>Paperback</Binding>
+		<DetailPageURL>http://www.amazon.com/OpenGL-SuperBible-Comprehensive-Tutorial-Reference/dp/0321902947%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321902947</DetailPageURL>
+		<Edition>6</Edition>
+	    <EditorialReview_Content>&lt;P style="MARGIN: 0px"&gt; &lt;B&gt; &lt;I&gt; &lt;B&gt;OpenGL® SuperBible, Sixth Edition,&lt;/B&gt; &lt;/I&gt; &lt;/B&gt; is the definitive programmer’s guide, tutorial, and reference for the world’s leading 3D API for real-time computer graphics, OpenGL 4.3. The best all-around introduction to OpenGL for developers at all levels of experience, it clearly explains both the newest API and indispensable related concepts. You’ll find up-to-date, hands-on guidance for all facets of modern OpenGL development on both desktop and mobile platforms, including transformations, texture mapping, shaders, buffers, geometry management, and much more.&lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt;Extensively revised, this edition presents many new OpenGL 4.3 features, including compute shaders, texture views, indirect draws, and enhanced API debugging. It has been reorganized to focus more tightly on the API, to cover the entire pipeline earlier, and to help you thoroughly understand the interactions between OpenGL and graphics hardware.&lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt; &lt;/P&gt;  &lt;P style="MARGIN: 0px"&gt;Coverage includes&lt;/P&gt;  &lt;UL&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;A practical introduction to the essentials of realtime 3D graphics&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Core OpenGL 4.3 techniques for rendering, transformations, and texturing&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Foundational math for creating interesting 3D graphics with OpenGL&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Writing your own shaders, with examples to get you started&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Cross-platform OpenGL, including essential platform-specific API initialization material for Linux, OS X, and Windows&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Vertex processing, drawing commands, primitive processing, fragments, and framebuffers&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Using compute shaders to harness today’s graphics cards for more than graphics&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Monitoring and controlling the OpenGL graphics pipeline&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Advanced rendering: light simulation, artistic and non-photo-realistic rendering, and deferred shading&lt;/DIV&gt; &lt;/LI&gt;  &lt;LI&gt;  &lt;DIV style="MARGIN: 0px"&gt;Modern OpenGL debugging and performance optimization&lt;/DIV&gt; &lt;/LI&gt; &lt;/UL&gt;  &lt;P style="MARGIN: 0px"&gt; &lt;I&gt;Bonus material and sample code are available from the companion Web site, &lt;/I&gt; openglsuperbible.com.&lt;/P&gt;</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+		<LargeImage_Height>500</LargeImage_Height>
+		<LargeImage_URL>http://ecx.images-amazon.com/images/I/516ePlc3ejL.jpg</LargeImage_URL>
+		<LargeImage_Width>402</LargeImage_Width>
+	    <ListPrice_Amount>5999</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$59.99</ListPrice_FormattedPrice>
+	    <MediumImage_Height>160</MediumImage_Height>
+	    <MediumImage_URL>http://ecx.images-amazon.com/images/I/516ePlc3ejL._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>129</MediumImage_Width>
+	    <NumberOfPages>848</NumberOfPages>
+	    <PackageDimensions_Height>170</PackageDimensions_Height>
+	    <PackageDimensions_Length>910</PackageDimensions_Length>
+	    <PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+		<PackageDimensions_Weight>295</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>690</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2013-07-31</PublicationDate>
+	    <Publisher>Addison-Wesley Professional</Publisher>
+		<SalesRank>50567</SalesRank>
+	    <SmallImage_Height>75</SmallImage_Height>
+	    <SmallImage_URL>http://ecx.images-amazon.com/images/I/516ePlc3ejL._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>60</SmallImage_Width>
+		<Title>OpenGL SuperBible: Comprehensive Tutorial and Reference (6th Edition)</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book5.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="1936420228 9781936420223" code="aB1234Av">
+	    <Author>Frank Luna</Author>
+	    <Binding>Paperback</Binding>
+		<DetailPageURL>http://www.amazon.com/Introduction-3D-Game-Programming-DirectX/dp/1936420228%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1936420228</DetailPageURL>
+		<Edition>Pap/DVD</Edition>
+	    <EditorialReview_Content>&lt;img src='https://www.authorcloudware.com/themes/images/buybuttons/redirectbutton_1.png'&gt;&lt;br /&gt;&lt;br /&gt;This updated bestseller provides an introduction to programming interactive computer graphics, with an emphasis on game development using DirectX 11. &lt;br /&gt;&lt;br /&gt;The book is divided into three main parts: basic mathematical tools, fundamental tasks in Direct3D, and techniques and special effects. It includes new Direct3D 11 features such as hardware tessellation, the compute shader, dynamic shader linkage and covers advanced rendering techniques such as screen-space ambient occlusion, level-of-detail handling, cascading shadow maps, volume rendering, and character animation. Includes a companion CD-ROM with code and figures.&lt;br /&gt;&lt;br /&gt;Brief Table of Contents:&lt;br /&gt;1 Part I — Mathematical Prerequisites. Vector Algebra. Matrix Algebra. Transformations. Part II — Direct3D Foundations. Direct3D Initialization. The Rendering Pipeline. Lighting. Texturing. Blending. Stenciling. The Geometry Shader. The Hardware Tessellation Shaders. The Compute Shader. Part III — Direct3D Topics. Ambient Occlusion. Cube Mapping. Normal Mapping. Shadow Mapping. Cascaded Shadow Maps. Meshes. Quaternions. Character Animation. Picking. Volume Rendering. Terrain Rendering. Atmospheric Scattering and Cloud Rendering. Particle Systems and Stream Output. Appendices. Introduction to Windows Programming. High-Level Shading Language Reference. Some Analytic Geometry</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+	    <LargeImage_Height>500</LargeImage_Height>
+	    <LargeImage_URL>http://ecx.images-amazon.com/images/I/51a8viCgMzL.jpg</LargeImage_URL>
+	    <LargeImage_Width>390</LargeImage_Width>
+	    <ListPrice_Amount>4995</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$49.95</ListPrice_FormattedPrice> 
+	    <MediumImage_Height>160</MediumImage_Height>
+	    <MediumImage_URL>http://ecx.images-amazon.com/images/I/51a8viCgMzL._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>125</MediumImage_Width>
+	    <NumberOfPages>864</NumberOfPages>
+	    <PackageDimensions_Height>197</PackageDimensions_Height>
+	    <PackageDimensions_Length>890</PackageDimensions_Length>
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>313</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>701</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2012-03-02</PublicationDate>
+	    <Publisher>Mercury Learning &amp; Information</Publisher>
+		<SalesRank>77801</SalesRank>
+	    <SmallImage_Height>75</SmallImage_Height>
+	    <SmallImage_URL>http://ecx.images-amazon.com/images/I/51a8viCgMzL._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>58</SmallImage_Width>
+		<Title>Introduction to 3D Game Programming with DirectX 11</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book6.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="1435458958 9781435458956" code="aB1234Av">
+	    <Author>Allen Sherrod</Author>
+	    <Author>Wendy Jones</Author>
+	    <Binding>Paperback</Binding>
+		<DetailPageURL>http://www.amazon.com/Beginning-DirectX-11-Game-Programming/dp/1435458958%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1435458958</DetailPageURL>
+		<Edition>1</Edition>
+		<EditorialReview_Content>Discover the latest and most popular technology for creating next-generation 3D games: DIRECTX 11! BEGINNING DIRECTX 11 GAME PROGRAMMING is an introductory guide to learning the basics of DirectX 11 that will help get you started on the path to 3D video game programming and development. Written specifically for the beginner programmer, this book uses step-by-step instructions to teach the basics of DirectX 11 and introduces skills that can be applied to creating games for PCs and game console platforms such as the Xbox 360. Updated for all the newest DirectX 11 technology, this book includes coverage of improved professional coding practices, an overview of the latest DirectX components and tools, sprites, text and font rendering, 3D character rendering, cameras, audio, shaders and effects, and much more. By the time you reach the end of this book, you will have had enough experience with DirectX 11 that you should be able to explore making simple video games and demos. From there, you can progress toward making more complex games and demos until you find yourself able to complete and release your own PC or console games.</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+		<LargeImage_URL>http://ecx.images-amazon.com/images/I/41bJ06UjS6L.jpg</LargeImage_URL>
+		<LargeImage_Height>500</LargeImage_Height>
+		<LargeImage_Width>404</LargeImage_Width>
+	    <ListPrice_Amount>3499</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$34.99</ListPrice_FormattedPrice>
+		<MediumImage_Height>160</MediumImage_Height>
+		<MediumImage_URL>http://ecx.images-amazon.com/images/I/41bJ06UjS6L._SL160_.jpg</MediumImage_URL>
+		<MediumImage_Width>129</MediumImage_Width>
+		<NumberOfPages>384</NumberOfPages>
+	    <PackageDimensions_Height>94</PackageDimensions_Height>
+	    <PackageDimensions_Length>906</PackageDimensions_Length>
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>168</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>732</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2011-05-12</PublicationDate>
+	    <Publisher>Cengage Learning PTR</Publisher>
+		<SalesRank>113885</SalesRank>
+		<SmallImage_Height>75</SmallImage_Height>
+		<SmallImage_URL>http://ecx.images-amazon.com/images/I/41bJ06UjS6L._SL75_.jpg</SmallImage_URL>
+		<SmallImage_Width>61</SmallImage_Width>
+		<Title>Beginning DirectX 11 Game Programming</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book7.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="1435454278 9781435454279" code="aB1234Av">
+	    <Author>Jonathan S. Harbour</Author>
+	    <Binding>Paperback</Binding>
+		<DetailPageURL>http://www.amazon.com/Beginning-Game-Programming-Jonathan-Harbour/dp/1435454278%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1435454278</DetailPageURL>
+		<Edition>3</Edition>
+		<EditorialReview_Content>"Beginning Game Programming, Third Edition" shows budding game developers how to take their game ideas from concept to reality. Requiring only a basic understanding of the C++ language, this unique guide covers all the skills needed to create 2D and 3D games using code written in DirectX. Each element of a game is taught step-by-step, from learning how to create a simple Windows program, to using the key DirectX components to render 2D and 3D, to adding sound to your game. Using the skills taught within each chapter, readers will develop their own game library, which they can build upon for future game projects. And this updated, new edition includes end-of-chapter quizzes and projects to help you practice your new skills! At the end of the book, newfound skills will be put to use as you create your own complete, fully functional game.</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+		<LargeImage_Height>500</LargeImage_Height>
+	    <LargeImage_URL>http://ecx.images-amazon.com/images/I/410JENWzy6L.jpg</LargeImage_URL>
+	    <LargeImage_Width>404</LargeImage_Width>
+	    <ListPrice_Amount>3499</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$34.99</ListPrice_FormattedPrice>
+		<MediumImage_Height>160</MediumImage_Height>
+	    <MediumImage_URL>http://ecx.images-amazon.com/images/I/410JENWzy6L._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>129</MediumImage_Width>
+		<NumberOfPages>448</NumberOfPages>
+	    <PackageDimensions_Height>130</PackageDimensions_Height>
+	    <PackageDimensions_Length>910</PackageDimensions_Length>
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>205</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>740</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2009-07-27</PublicationDate>
+	    <Publisher>Cengage Learning PTR</Publisher>
+		<SalesRank>470759</SalesRank>
+		<SmallImage_Height>75</SmallImage_Height>
+	    <SmallImage_URL>http://ecx.images-amazon.com/images/I/410JENWzy6L._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>61</SmallImage_Width>
+		<Title>Beginning Game Programming</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book8.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="1568814135 9781568814131" code="aB1234Av">
+	    <Author>Jason Gregory</Author>
+	    <Binding>Hardcover</Binding>
+		<DetailPageURL>http://www.amazon.com/Game-Engine-Architecture-Jason-Gregory/dp/1568814135%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1568814135</DetailPageURL>
+		<EditorialReview_Content>&lt;P&gt;This book covers both the theory and practice of game engine software development, bringing together complete coverage of a wide range of topics. The concepts and techniques described are the actual ones used by real game studios like Electronic Arts and Naughty Dog. The examples are often grounded in specific technologies, but the discussion extends way beyond any particular engine or API. The references and citations make it a great jumping off point for those who wish to dig deeper into any particular aspect of the game development process. &lt;/P&gt; &lt;P&gt;Intended as the text for a college level series in game programming, this book can also be used by amateur software engineers, hobbyists, self-taught game programmers, and existing members of the game industry. Junior game engineers can use it to solidify their understanding of game technology and engine architecture. Even senior engineers who specialize in one particular field of game development can benefit from the bigger picture presented in these pages. &lt;/P&gt;</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+		<LargeImage_Height>500</LargeImage_Height>
+	    <LargeImage_URL>http://ecx.images-amazon.com/images/I/51mQl0y9NGL.jpg</LargeImage_URL>
+	    <LargeImage_Width>384</LargeImage_Width>
+	    <ListPrice_Amount>7195</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$71.95</ListPrice_FormattedPrice>
+		<MediumImage_Height>160</MediumImage_Height>
+	    <MediumImage_URL>http://ecx.images-amazon.com/images/I/51mQl0y9NGL._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>123</MediumImage_Width>
+		<NumberOfPages>864</NumberOfPages>
+	    <PackageDimensions_Height>173</PackageDimensions_Height>
+	    <PackageDimensions_Length>921</PackageDimensions_Length>
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>357</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>748</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2009-06-15</PublicationDate>
+	    <Publisher>A K Peters/CRC Press</Publisher>
+		<SalesRank>232484</SalesRank>
+		<SmallImage_Height>75</SmallImage_Height>
+	    <SmallImage_URL>http://ecx.images-amazon.com/images/I/51mQl0y9NGL._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>58</SmallImage_Width>
+		<Title>Game Engine Architecture</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book9.html</LocalLink>
+	</asin>
+	
+	<asin ISBN="0123747317 9780123747310" code="aB1234Av">
+	    <Author>Ian Millington</Author>
+	    <Author>John Funge</Author>
+	    <Binding>Hardcover</Binding>
+		<DetailPageURL>http://www.amazon.com/Artificial-Intelligence-Games-Ian-Millington/dp/0123747317%3FSubscriptionId%3DAKIAJ6X3RRT5DUS3XI3Q%26tag%3DloopupItem%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0123747317</DetailPageURL>
+		<Edition>2</Edition>
+		<EditorialReview_Content>Creating robust artificial intelligence is one of the greatest challenges for game developers, yet the commercial success of a game is often dependent upon the quality of the AI. In this book, Ian Millington brings extensive professional experience to the problem of improving the quality of AI in games. He describes numerous examples from real games and explores the underlying ideas through detailed case studies. He goes further to introduce many techniques little used by developers today. The book's associated web site contains a library of C++ source code and demonstration programs, and a complete commercial source code library of AI algorithms and techniques.&lt;BR&gt;&lt;BR&gt;"Artificial Intelligence for Games - 2nd edition" will be highly useful to academics teaching courses on game AI, in that it includes exercises with each chapter. It will also include new and expanded coverage of the following: AI-oriented gameplay; Behavior driven AI; Casual games (puzzle games).&lt;BR&gt;</EditorialReview_Content>
+		<EditorialReview_Source>Product Description</EditorialReview_Source>
+		<LargeImage_Height>500</LargeImage_Height>
+	    <LargeImage_URL>http://ecx.images-amazon.com/images/I/51yOHwIa07L.jpg</LargeImage_URL>
+	    <LargeImage_Width>361</LargeImage_Width>
+	    <ListPrice_Amount>8595</ListPrice_Amount>
+	    <ListPrice_CurrencyCode>USD</ListPrice_CurrencyCode>
+	    <ListPrice_FormattedPrice>$85.95</ListPrice_FormattedPrice>
+		<MediumImage_Height>160</MediumImage_Height>
+	    <MediumImage_URL>http://ecx.images-amazon.com/images/I/51yOHwIa07L._SL160_.jpg</MediumImage_URL>
+	    <MediumImage_Width>116</MediumImage_Width>
+		<NumberOfPages>896</NumberOfPages>
+	    <PackageDimensions_Height>140</PackageDimensions_Height>
+	    <PackageDimensions_Length>930</PackageDimensions_Length>
+		<PackageDimensions_Size_Units>hundredths-inches</PackageDimensions_Size_Units>
+	    <PackageDimensions_Weight>370</PackageDimensions_Weight>
+		<PackageDimensions_Weight_Units>hundredths-pounds</PackageDimensions_Weight_Units>
+	    <PackageDimensions_Width>780</PackageDimensions_Width>
+		<ProductGroup>Book</ProductGroup>
+	    <PublicationDate>2009-08-06</PublicationDate>
+	    <Publisher>CRC Press</Publisher>
+		<SalesRank>55995</SalesRank>
+		<SmallImage_Height>75</SmallImage_Height>
+	    <SmallImage_URL>http://ecx.images-amazon.com/images/I/51yOHwIa07L._SL75_.jpg</SmallImage_URL>
+	    <SmallImage_Width>54</SmallImage_Width>
+		<Title>Artificial Intelligence for Games</Title>
+		<store>amazon.com</store>
+		<Topics>
+		            <item>Essays</item>
+		    </Topics>
+		    <giver_ids>
+		            <item>dewey</item>
+		    </giver_ids>
+		    <moocher_ids>
+		            <item>nicomachus</item>
+		    </moocher_ids>
+		    <userids>
+		            <item>delta.38</item>
+		    </userids>
+		    <transactions>
+		            <item>nicomachus/2</item>
+		    </transactions>
+		    <wishlists_on>
+		            <item>
+		                    <id>dgrant</id>
+		                    <now>1167614085</now>
+		            </item>
+		    </wishlists_on>
+			<LocalLink>book10.html</LocalLink>
+	</asin>
+	
+</asins>

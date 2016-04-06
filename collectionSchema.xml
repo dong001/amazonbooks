@@ -1,0 +1,76 @@
+<!-- collectionSchema.xml  
+	 Description: the xml file is a schema xsd code according to the DTD -->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+	 <xsd:element name="ingredient">
+      <xsd:complexType>
+        <xsd:sequence>
+  		  <xsd:group ref="ingredientGroup" minOccurs="0" maxOccurs="1" />
+        </xsd:sequence>
+        <xsd:attribute name="name" type="xsd:string" use="required" />
+        <xsd:attribute name="amount" type="xsd:string" use="optional" />
+        <xsd:attribute name="unit" type="xsd:string" use="optional" />
+      </xsd:complexType>
+    </xsd:element>
+  
+    <xsd:element name="preparation">
+  	  <xsd:complexType>
+  		  <xsd:sequence>
+  			  <xsd:element name="step" type="xsd:string" minOccurs="0" maxOccurs="unbounded" /> 
+  		  </xsd:sequence>
+  	  </xsd:complexType>
+    </xsd:element>
+  
+    <xsd:group name="ingredientGroup">
+  	  <xsd:sequence>
+  		  <xsd:element ref="ingredient" minOccurs="0" maxOccurs="unbounded" />
+  		  <xsd:element ref="preparation" />
+  	  </xsd:sequence>
+    </xsd:group>
+  
+  <xsd:element name="description">
+	  <xsd:complexType>
+		  <xsd:sequence>
+		  	<xsd:any minOccurs="0"/>
+	  	  </xsd:sequence>
+	  </xsd:complexType>
+  </xsd:element>
+  
+  <xsd:element name="title" type="xsd:string" />
+  
+ <xsd:element name="comment" type="xsd:string"  />
+ 
+ <xsd:element name="nutrition">
+  <xsd:complexType>
+	  <xsd:attribute name="protein" type="xsd:string" use="required" />
+	  <xsd:attribute name="carbohydrates" type="xsd:string" use="required" />
+	  <xsd:attribute name="fat" type="xsd:string" use="required" />
+	  <xsd:attribute name="calories" type="xsd:string" use="required" />
+	  <xsd:attribute name="alcohol" type="xsd:string" use="optional" />
+  </xsd:complexType>
+ </xsd:element>	
+ 
+  <xsd:element name="recipe">
+	  <xsd:complexType>
+		  <xsd:sequence>
+			  <xsd:element ref="title" />
+			  <xsd:element ref="ingredient" minOccurs="0" maxOccurs="unbounded" />
+			  <xsd:element ref="preparation" />
+			  <xsd:element ref="comment" minOccurs="0" maxOccurs="1" />
+			  <xsd:element ref="nutrition" />  	  
+		  </xsd:sequence>
+	  </xsd:complexType>
+  </xsd:element>
+  
+  
+  
+  <xsd:element name="collection">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element ref="description" />
+        <xsd:element ref="recipe" minOccurs="0" maxOccurs="unbounded" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>	
+  
+</xsd:schema>
